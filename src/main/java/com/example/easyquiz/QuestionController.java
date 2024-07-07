@@ -30,9 +30,9 @@ public class QuestionController {
     @FXML
     private ComboBox<String> difficultyComboBox;
 
-    private static final String EASY_FILE = "easy.txt";
-    private static final String NORMAL_FILE = "normal.txt";
-    private static final String HARD_FILE = "hard.txt";
+    private static final String EASY_FILE = "Debutant.txt";
+    private static final String NORMAL_FILE = "Intermediare.txt";
+    private static final String HARD_FILE = "Expert.txt";
 
     private String currentDifficultyFile;
 

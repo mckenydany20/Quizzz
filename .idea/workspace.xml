@@ -5,47 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a04dc09f-be3b-4661-8876-259251d04804" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EasyQuiz.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hard.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.49-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.49.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/easyquiz/AdminController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/easyquiz/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/easyquiz/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/easyquiz/QuestionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/easyquiz/QuizApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/easyquiz/QuizController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/easyquiz/RegistrationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/easyquiz/ResultController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/easyquiz/Userdata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/easyquiz/UserdataController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/easyquiz/db_connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/easyquiz/levelController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/easyquiz/admin.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/easyquiz/admin_user.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/easyquiz/home.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/easyquiz/images/Girl 12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/easyquiz/images/chatgpt robot happy raising left arm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/easyquiz/level.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/easyquiz/quiz.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/easyquiz/registration.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/easyquiz/result.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/questions/easy.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/questions/hard.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/questions/normal.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hard.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/easyquiz/QuestionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/easyquiz/QuestionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/questions/easy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/questions/Debutant.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/questions/hard.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/questions/Expert.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/questions/normal.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/questions/Intermediare.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +48,8 @@
     "last_opened_file_path": "C:/Users/mxlledany/IdeaProjects/mysql-connector-j-8.0.31.jar",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="RecentsManager">
