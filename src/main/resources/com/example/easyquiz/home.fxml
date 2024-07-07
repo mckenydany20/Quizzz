@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.collections.FXCollections?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: whitesmoke; -fx-background-radius: 0; -fx-border-radius: 0;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.easyquiz.HomeController">
+   <children>
+
+      <!-- Title Label -->
+      <Label layoutX="344.0" layoutY="29.0" prefHeight="38.0" prefWidth="234.0" style="-fx-text-fill: #344839;" text="Bienvenue sur Quizz" textFill="#344739">
+         <font>
+            <Font name="System Bold" size="24.0" />
+         </font>
+      </Label>
+
+      <!-- Play Quiz Button -->
+      <Button fx:id="playquizbtn" layoutX="355.0" layoutY="279.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="211.0" style="-fx-background-color: #344839; -fx-background-radius: 32px; -fx-border-radius: 32px;" text="JOUER" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="14.0" />
+         </font>
+      </Button>
+
+      <!-- Role Selection -->
+      <VBox layoutX="225.0" layoutY="100.0" />
+
+      <!-- Login Form -->
+      <VBox layoutX="346.0" layoutY="148.0" prefHeight="138.0" prefWidth="234.0" spacing="10.0">
+         <children>
+            <TextField fx:id="usernameField" prefHeight="42.0" prefWidth="234.0" promptText="Nom d'utilisateur" />
+            <HBox spacing="10.0" />
+            <PasswordField fx:id="passwordField" prefHeight="40.0" prefWidth="234.0" promptText="Mot de passe" />
+            <HBox spacing="6.0" />
+            <Label fx:id="errorLabel" prefHeight="0.0" prefWidth="234.0" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="14.0" />
+               </font>
+            </Label>
+         </children>
+      </VBox>
+
+      <!-- Mute Button -->
+      <Button fx:id="muteButton" layoutX="550.0" layoutY="10.0" mnemonicParsing="false" onAction="#toggleMute" style="-fx-background-color: transparent;" />
+      <ComboBox fx:id="roleComboBox" layoutX="379.0" layoutY="91.0" prefHeight="30.0" prefWidth="164.0" promptText="Choix du rôle">
+         <items>
+            <FXCollections fx:factory="observableArrayList">
+               <String fx:value="Admin" />
+               <String fx:value="Utilisateur" />
+            </FXCollections>
+         </items>
+      </ComboBox>
+      <ImageView fitHeight="405.0" fitWidth="404.0" layoutX="-79.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@images/Girl%2012.png" />
+         </image>
+      </ImageView>
+      <Button layoutX="524.0" layoutY="381.0" onAction="#navigateToRegistration" prefHeight="22.0" prefWidth="77.0" style="-fx-font-size: 10; -fx-background-color: #BA723F;" text="S'inscrire" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+      </Button>
+
+   </children>
+</AnchorPane>

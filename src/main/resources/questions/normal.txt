@@ -1,0 +1,10 @@
+Quel est le nom de la technologie qui permet de rendre des pages web interactives ?/HTML/CSS/JavaScript/SQL/JavaScript
+Quel est l'IDE le plus couramment utilisé pour le développement en Java ?/PyCharm/IntelliJ IDEA/Visual Studio Code/Eclipse/Eclipse
+Quel outil est souvent utilisé pour l'automatisation des tests dans le développement web ?/Selenium/JIRA/Photoshop/Slack/Selenium
+Quel framework est utilisé pour développer des applications web en Python ?/Django/Angular/React/Spring/Django
+Quel est le protocole utilisé pour sécuriser les communications sur Internet ?/HTTP/FTP/TCP/HTTPS/HTTPS
+Quel langage de programmation est utilisé pour le développement de smart contracts sur Ethereum ?/Python/JavaScript/Solidity/Rust/Solidity
+Quel est l'outil de conteneurisation le plus populaire pour déployer des applications ?/Docker/Kubernetes/Ansible/Chef/Docker
+Quel est le format de fichier pour un document Microsoft Word ?/.xlsx/.pptx/.docx/.txt/.docx
+Quel framework JavaScript est développé par Facebook ?/Angular/Vue.js/React/Ember.js/React
+Quel est le langage de script utilisé pour automatiser les tâches dans les systèmes d'exploitation Unix ?/Python/Ruby/Shell/Bash/Bash

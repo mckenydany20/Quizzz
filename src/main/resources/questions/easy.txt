@@ -1,0 +1,10 @@
+Quel langage de balisage est principalement utilisé pour structurer le contenu des pages web ?/HTML/CSS/Python/JavaScript/HTML
+Quel outil est utilisé pour gérer les versions de code dans le développement logiciel ?/Git/Docker/Node.js/Photoshop/Git
+Quel est le langage de style utilisé pour décrire la présentation des documents HTML ?/SQL/CSS/Java/C++/CSS
+Quel est le système de gestion de contenu (CMS) le plus utilisé pour créer des sites web ?/WordPress/Magento/Joomla/Drupal/WordPress
+Quelle entreprise a développé le navigateur Firefox ?/Microsoft/Apple/Mozilla/Google/Mozilla
+Quel est le format de fichier pour une feuille de calcul Microsoft Excel ?/.docx/.xlsx/.pptx/.pdf/.xlsx
+Quel langage de programmation est souvent utilisé pour le développement de jeux vidéo ?/Python/JavaScript/C#/HTML/C#
+Quel logiciel est couramment utilisé pour éditer des images ?/Microsoft Word/Adobe Photoshop/Visual Studio/Eclipse/Adobe Photoshop
+Quel est le nom de l’assistant virtuel développé par Apple ?/Alexa/Google Assistant/Siri/Cortana/Siri
+Quel est le langage de programmation principalement utilisé pour le développement d’applications Android ?/Swift/Kotlin/Ruby/PHP/Kotlin

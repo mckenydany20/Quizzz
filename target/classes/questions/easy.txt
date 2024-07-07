@@ -1,0 +1,10 @@
+Quel est le langage de programmation le plus utilisé en developpement web ?/JavaScript/Python/C++/Java/JavaScript
+Quel est l'outil utilisé pour vérifier les erreurs dans un programme ?/Compilateur/Interpréteur/Debugueur/Éditeur de texte/Debugueur
+Quel est le navigateur web développé par Google ?/Firefox/Safari/Edge/Chrome/Chrome
+Quel est système d'exploitation dévéloppé par Microsoft ?/macOS/Linux/Windows/Android/Windows
+Quel est le format de fichier image le plus courant sur internet ?/.docx/.jpg/.mp3/.pdf/.jpg
+Quelle entreprise est connue pour le système d'exploitation Android ?/Apple/Microsoft/Google/IBM/Google
+Quel est le raccourci clavier pour copier un texte sur Windows ?/Ctrl + V/Ctrl + X/Ctrl + C/Ctrl + Z/Ctrl + C
+Quelle est l'unité de mesure de la fréquence des processeurs ?/Octet/Hertz/Bit/Pixels/Hertz
+Quel périphérique est utilisé pour imprimer des documents ?/Scanner/Clavier/Imprimante/Écran/Imprimante
+Quel langage est principalement utilisé pour les bases de données ?/SQL/CSS/JavaScript/HTML/SQL

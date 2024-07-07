@@ -1,0 +1,10 @@
+Combien de langages de programmation sont considérés comme des langages de haut niveau ?/3/5/7/9/7
+Qui est souvent considéré comme le père de l'informatique ?/Alan Turing/Steve Jobs/Bill Gates/Tim Berners-Lee/Alan Turing
+Quel est le composant essentiel pour stocker des données de façon permanente dans un ordinateur ?/Carte graphique/Disque dur/RAM/CPU/Disque dur
+Quel protocole est utilisé pour transférer des fichiers sur Internet ?/TCP/HTTP/FTP/HTTP/FTP
+Quelle est la méthode la plus courante pour organiser et stocker des données de manière structurée dans une base de données relationnelle ?/XML/HTML/JSON/SQL/SQL
+Qui est l'inventeur du langage de programmation Python ?/Mark Zuckerberg/Larry Page/Linus Torvalds/Guido van Rossum/Guido van Rossum
+Quel est le terme pour désigner une série d'instructions exécutées par un ordinateur pour effectuer une tâche spécifique ?/Programme/Code source/Algorithme/Script/Programme
+Quel est le composant matériel qui exécute les instructions d'un programme et effectue les opérations de calcul dans un ordinateur ?/GPU/Disque dur/RAM/CPU/CPU
+Quel type de système d'exploitation est basé sur le noyau Linux ?/Android/Unix/macOS/Windows/Android
+Quel est le principal langage de programmation utilisé pour créer des pages Web dynamiques ?/JavaScript/PHP/C++/Java/JavaScript

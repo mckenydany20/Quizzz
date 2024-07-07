@@ -1,0 +1,10 @@
+Quel langage est principalement utilisé pour le développement de systèmes d'exploitation ?/C/Java/Swift/JavaScript/C
+Quel outil est utilisé pour orchestrer des conteneurs dans un environnement de production ?/Docker/Kubernetes/Vagrant/Ansible/Kubernetes
+Quel est le protocole de communication utilisé par les applications en temps réel comme les jeux en ligne ?/HTTP/UDP/TCP/IP/UDP
+Quel framework Java est souvent utilisé pour le développement d'applications d'entreprise ?/Spring/Flask/Django/Ruby on Rails/Spring
+Quelle est la méthode d'optimisation utilisée par les compilateurs pour améliorer les performances des programmes ?/Garbage Collection/Just-in-time Compilation/Loop Unrolling/Memory Management/Loop Unrolling
+Quel est le nom du processus qui permet de convertir le code source en code machine ?/Interprétation/Compilation/Linking/Execution/Compilation
+Quel langage de programmation est connu pour sa robustesse dans le développement de systèmes embarqués ?/C++/Ruby/JavaScript/Python/C++
+Quel est l'outil de gestion de configuration utilisé pour automatiser le déploiement des infrastructures ?/Terraform/Jenkins/CircleCI/TravisCI/Terraform
+Quel est le principe de la programmation qui favorise la réutilisabilité et l'organisation du code en petites unités ?/Encapsulation/Polymorphisme/Abstraction/Modularité/Modularité
+Quel est le modèle de conception qui permet de séparer les préoccupations dans le développement d'applications web ?/MVC/Singleton/Observer/Factory/MVC

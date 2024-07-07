@@ -1,0 +1,10 @@
+Quel protocole est utilisé pour sécuriser les communications sur un réseau informatique ?/FTP/HTTP/SSL/POP3/SSL
+Quel algorithme de tri a une complexité moyenne de O(n log n) ?/Tri à bulles/Tri rapide/Tri par insertion/Tri par sélection/Tri rapide
+Quel est le port par défaut pour le protocole HTTPS ?/80/21/25/443/443
+Quel est le terme pour une attaque visant à rendre un service indisponible en le saturant de requêtes ?/Phishing/Injection SQL/DDoS/Spoofing/DDoS
+Quelle est la fonction principale d'un pare-feu ?/Stocker des données/Analyser des paquets/Éditer du code/Exécuter des programmes/Analyser des paquets
+Quel est le nom du processus qui convertit du code source en code machine ?/Édition/Liaison/Compilation/Interprétation/Compilation
+Quel est le langage utilisé pour le développement d'applications iOS ?/Java/Kotlin/Python/Swift/Swift
+Quel est l'acronyme pour le protocole de transfert de fichiers entre un client et un serveur ?/HTTP/SMTP/FTP/TCP/FTP
+Quel est le terme pour un logiciel conçu pour infiltrer un système informatique sans autorisation ?/Firewall/Malware/Proxy/Router/Malware
+Quel est le modèle de sécurité utilisé par les bases de données relationnelles pour contrôler l'accès aux données ?/OAuth/PKI/ACL/RBAC/RBAC
